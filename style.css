@@ -4,7 +4,18 @@ img {
 
 body {
     text-align: center;
+    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoejJzZzZiZWE5NG8xNm1sbW42b2FmNGI5eTA0NTJhaWxoNGJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUB2vtXwECku3GVVhG/giphy.gif);
+    background-size: 100%;
     font-family: "Bitcount Single";
-    font-size: 10px;
     background-color: rgb(64, 146, 155);
+}
+
+h1,
+h2 {
+    color: rgb(242, 255, 0)
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
 }
