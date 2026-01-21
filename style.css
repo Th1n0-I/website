@@ -1,0 +1,10 @@
+img {
+    height: 256px
+}
+
+body {
+    text-align: center;
+    font-family: "Bitcount Single";
+    font-size: 10px;
+    background-color: rgb(64, 146, 155);
+}
